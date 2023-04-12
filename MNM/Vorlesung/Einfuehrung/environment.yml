@@ -1,0 +1,17 @@
+name: NWM
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.10
+  - jupyter
+  - jupyter_client==6.1.12
+  - numpy~=1.22.0
+  - pandas~=1.4
+  - matplotlib
+  - seaborn
+  - nbgrader
+  - pytest
+  - scipy
+variables:
+  COURSE_TITLE: 'Naturwissenschaftliche Modellierung (07-BDS-09)'
