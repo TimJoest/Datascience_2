@@ -1,0 +1,6 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1639;Gieﬂen/Wettenberg;8.64;50.6;202.7;2;20080424;20140616;Laser Niederschlags Monitor TYP1;Niederschlagsart, elektr.;eor;
+1639;Gieﬂen/Wettenberg;8.64;50.6;203.2;2;20140617;20141205;Laser Niederschlags Monitor TYP1;Niederschlagsart, elektr.;eor;
+1639;Gieﬂen/Wettenberg;8.64;50.6;203.2;2;20150106;20180828;Laser Niederschlags Monitor TYP1;Niederschlagsart, elektr.;eor;
+1639;Gieﬂen/Wettenberg;8.64;50.6;203.2;2;20180829;20230426;Laser Niederschlags Monitor TYP2;Niederschlagsart, elektr.;eor;
+generiert: 05.05.2023 --  Deutscher Wetterdienst  --
