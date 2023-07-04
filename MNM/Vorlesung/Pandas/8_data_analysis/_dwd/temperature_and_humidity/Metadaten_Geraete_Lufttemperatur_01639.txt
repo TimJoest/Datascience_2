@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1639;Gießen, Liebigshöhe;8.7;50.59;186;2;19500101;19831024;Thermograph;Temperaturmessung, konv.;eor;
+1639;Gießen, Liebigshöhe;8.7;50.59;186;2;19961010;20051110;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1639;Gießen/Wettenberg;8.64;50.6;202.7;2;20051111;20140616;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1639;Gießen/Wettenberg;8.64;50.6;203.2;2;20140617;20181112;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+1639;Gießen/Wettenberg;8.64;50.6;203.2;2;20181115;20230426;PT 100 (Luft);Temperaturmessung, elektr.;eor;
+generiert: 05.05.2023 --  Deutscher Wetterdienst  --
