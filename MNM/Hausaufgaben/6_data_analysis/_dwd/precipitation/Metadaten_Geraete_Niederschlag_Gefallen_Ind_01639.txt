@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+1639;Gieﬂen/Wettenberg;8.64;50.6;202.7;1;20051111;20140616;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+1639;Gieﬂen/Wettenberg;8.64;50.6;203.2;1;20140617;20160403;Niederschlags-Detektor;Niederschlagsdauer, elektr.;eor;
+1639;Gieﬂen/Wettenberg;8.64;50.6;203.2;1;20160404;20230426;Niederschlagsw‰chter;Niederschlagsdauer, elektr.;eor;
+generiert: 05.05.2023 --  Deutscher Wetterdienst  --

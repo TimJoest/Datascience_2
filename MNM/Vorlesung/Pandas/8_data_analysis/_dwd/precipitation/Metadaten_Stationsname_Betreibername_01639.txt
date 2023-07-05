@@ -1,0 +1,10 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  1639;Gießen;18440101;19340928
+  1639;Gießen (Senckenberg);19340929;19460808
+  1639;Gießen, Liebigshöhe;19460809;20051110
+  1639;Gießen/Wettenberg;20051111;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  1639;Wetterdienst;18440101;19521110
+  1639;DWD;19521111;
+generiert: 05.05.2023 --  Deutscher Wetterdienst  --
